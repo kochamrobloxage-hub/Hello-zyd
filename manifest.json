@@ -1,0 +1,7 @@
+{
+  "name": "NoCallAfk",
+  "description": "Blokuje automatyczne rozłączanie z rozmów w DM/grupach po 3 minutach samotności.",
+  "authors": [{ "name": "ty" }],
+  "main": "index.js",
+  "vendetta": { "icon": "ic_voice" }
+}
